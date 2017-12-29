@@ -2,7 +2,7 @@
 
 Blog to record research-related materials.
 
-You can visit [here](https://hwang91.github.io) to see this blog.
+Under construction.
 
 ---
 
